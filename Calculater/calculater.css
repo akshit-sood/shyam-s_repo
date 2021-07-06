@@ -1,0 +1,32 @@
+.calculater{
+    background-color: red;
+    height:70%;
+    width: 70%;
+    
+}
+
+.cal-display{
+    background-color: orange;
+    height: 20%;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+.result{
+   height:70%;
+   width:95%;
+   background-color: papayawhip;
+   border-radius: 30px;
+   display: flex;
+   align-items: center;
+   padding-left: 10px;
+}
+.inputshow{
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.cal-pannel{
+    
+}
